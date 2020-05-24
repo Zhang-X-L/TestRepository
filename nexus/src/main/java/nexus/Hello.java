@@ -7,4 +7,8 @@ public class Hello {
 	void m() {
 		
 	}
+	
+	void m2() {
+		
+	}
 }
